@@ -42,7 +42,7 @@ echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━�
 echo -e "
 [${green}01${NC}]${color1} •${color3}$bd add Vmess (${color2}add-vmess${color3})
 [${green}02${NC}]${color1} •${color3}$bd add vless (${color2}add-vless${color3})
-[${green}03${NC}]${color1} •${color3}$bd add trojan  (${color2}add-trojan-pptp${color3})
+[${green}03${NC}]${color1} •${color3}$bd add trojan  (${color2}add-trojan${color3})
 [${green}04${NC}]${color1} •${color3}$bd shadowsocks (${color2}add-shadowsocks${color3})
 [${green}05${NC}]${color1} •${color3}$bd del user (${color2}del-user{color3})
 [${green}06${NC}]${color1} •${color3}$bd cek user (${color2}cek-user${color3})
