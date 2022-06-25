@@ -44,9 +44,9 @@ echo -e "
 [${green}02${NC}]${color1} •${color3}$bd add vless (${color2}add-vless${color3})
 [${green}03${NC}]${color1} •${color3}$bd add trojan  (${color2}add-trojan${color3})
 [${green}04${NC}]${color1} •${color3}$bd shadowsocks (${color2}add-shadowsocks${color3})
-[${green}05${NC}]${color1} •${color3}$bd del user (${color2}del-user{color3})
+[${green}05${NC}]${color1} •${color3}$bd del user (${color2}del-user${color3})
 [${green}06${NC}]${color1} •${color3}$bd cek user (${color2}cek-user${color3})
-[${green}07${NC}]${color1} •${color3}$bd renew user (${color2}renew-user{color3})
+[${green}07${NC}]${color1} •${color3}$bd renew user (${color2}renew-user${color3})
 [${green}08${NC}]${color1} •${color3}$bd cek usage (${color2}usage${color3})
 
 [${green}00${NC}]${color1} •${color3}$bd Back to exit Menu \033[1;32m<\033[1;33m<\033[1;31m<\033[1;31m"
